@@ -6,7 +6,7 @@ Ce projet existe dans le cadre d'un projet universitaire (2021).
 
 Le code est situé dans la branche master.
 
-## Resultat du projet
+## Scene du projet
 
 <p align=center>
   <a href="https://drive.google.com/uc?export=view&id=1BgD3N7ZkAOllrWsLTQXhvHeUNv6PcUdB">
