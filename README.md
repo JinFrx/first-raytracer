@@ -2,7 +2,7 @@
 
 ## Description
 
-Un projet universitaire (2021).
+Un moteur 3D en Lancé de rayons développé en C++ dans le cadre d'un projet universitaire (2021).
 
 Le code est situé dans la branche master.
 
