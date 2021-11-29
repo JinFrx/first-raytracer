@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet existe dans le cadre d'un projet universitaire (2021).
+Un projet universitaire (2021).
 
 Le code est situé dans la branche master.
 
