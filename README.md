@@ -9,7 +9,9 @@ Le code est situé dans la branche master.
 ## Resultat du projet
 
 <p align=center>
-  <img src=https://drive.google.com/file/d/1BgD3N7ZkAOllrWsLTQXhvHeUNv6PcUdB/view?usp=sharing alt="3d_engine_ray_tracing.jpg" />
+  <a href="https://drive.google.com/uc?export=view&id=1BgD3N7ZkAOllrWsLTQXhvHeUNv6PcUdB">
+    <img src="https://drive.google.com/uc?export=view&id=1BgD3N7ZkAOllrWsLTQXhvHeUNv6PcUdB" alt="3d_engine_ray_tracing.jpg" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  </a>
 </p>
 
 Plusieurs éléments sont à noter sur la mise en scène :
