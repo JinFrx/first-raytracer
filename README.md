@@ -1,12 +1,12 @@
-# Moteur 3D Ray-tracing
+# 3D Ray-tracing Engine
 
 ## Description
 
-Un moteur 3D en Lancé de rayons développé en C++ dans le cadre d'un projet universitaire (2021).
+A 3D Ray-tracing engine coded in C++, for a university project purpose (2021).
 
-Le code est situé dans la branche master.
+The code is located in master branch.
 
-## Scene finale du projet
+## Final project scene
 
 <p align=center>
   <a href="https://drive.google.com/uc?export=view&id=1BgD3N7ZkAOllrWsLTQXhvHeUNv6PcUdB">
@@ -14,11 +14,12 @@ Le code est situé dans la branche master.
   </a>
 </p>
 
-Plusieurs éléments sont à noter sur la mise en scène :
-- Différentes sources de lumières, dont une qui n'est pas hors-champ
-- Ombres portées douces, utilisation de quad-lights
-- Anti-alliassage : distribution de rayons aléatoires par pixel
-- Le lapin de Stanford, le buste et deux sphères sont des maillages
-- Une des sphères est décrite analytiquement et le tore est une surface implicite
-- Différents matériaux mis en scène : Blinn-Phong, Oren-Nayar et Cook-Torrance
-- Réflexion et réfraction : plan mirroir à gauche du lapin, tore mirroir et sphère au dessus du buste transparente
+Several things to emphasize in this scene:
+- Multiple light sources, including one off-screen.
+- Soft cast shadows, use of quad-lights.
+- Antialiasing: randomly distributed rays per pixel
+- The Stanford bunny, the bust and two spheres are meshes
+- One sphere is described analytically, like planes around objects
+- The torus is an implicit surface
+- Multiple visible materials of different models: Blinn-Phong, Oren-Nayar and Cook-Torrance
+- Reflection and refraction: perfect mirror plane to the left of the bunny, perfect mirror torus and transparent sphere on top of the bust
