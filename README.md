@@ -7,7 +7,7 @@ A 3D Ray-tracing engine coded in C++, for a university project purpose (2021).
 ## Final project scene
 
 <p align=center>
-  <img src="https://github.com/JinFrx/3d-ray-tracing-engine/blob/main/3d_ray_tracing_engine.jpg" alt="showcase image" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  <img src="https://github.com/JinFrx/3d-ray-tracing-engine/blob/main/3d_engine_ray_tracing.jpg" alt="showcase image" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 </p>
 
 Several things to emphasize in this scene:
