@@ -15,8 +15,8 @@ The code is located in master branch.
 </p>
 
 Several things to emphasize in this scene:
-- Multiple light sources, including one off-screen.
-- Soft cast shadows, use of quad-lights.
+- Multiple light sources, including one that isn't out of frame.
+- Soft cast shadows: use of quad-lights.
 - Antialiasing: randomly distributed rays per pixel
 - The Stanford bunny, the bust and two spheres are meshes
 - One sphere is described analytically, like planes around objects
