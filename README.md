@@ -4,8 +4,6 @@
 
 A 3D Ray-tracing engine coded in C++, for a university project purpose (2021).
 
-The code is located in master branch.
-
 ## Final project scene
 
 <p align=center>
