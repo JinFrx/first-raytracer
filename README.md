@@ -2,7 +2,7 @@
 
 ## Description
 
-A 3D Ray-tracing engine coded in C++, for a university project purpose (2021).
+A 3D Ray-tracing engine coded in C++, made as part of a university project (2021).
 
 ## Final project scene
 
