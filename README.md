@@ -33,3 +33,4 @@ Several things to emphasize in this scene:
 - The torus is an implicit surface
 - Multiple visible materials of different models: Blinn-Phong, Oren-Nayar and Cook-Torrance
 - Reflection and refraction: perfect mirror plane to the left of the bunny, perfect mirror torus and transparent sphere on top of the bust
+- Antialiasing: 32 randoms rays per pixel
