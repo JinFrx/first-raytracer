@@ -1,7 +1,7 @@
-# Raytracer
+# A first Raytracer
 
 <p align=center>
-  <img src="https://github.com/JinFrx/pf-raytracer/blob/main/3d_engine_ray_tracing.jpg" alt="showcase image" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  <img src="https://github.com/JinFrx/pf-first-raytracer/blob/main/3d_engine_ray_tracing.jpg" alt="showcase image" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 </p>
 
 ## Description
@@ -10,7 +10,7 @@
 
 Projet réalisé dans le cadre universitaire (2021).
 
-Un simple Raytracer (moteur de rendu 3D par lancé de rayons) codé en C++ sur CPU.
+Un Raytracer simple (moteur de rendu 3D par lancé de rayons) codé en C++ sur CPU.
 
 L'objectif du projet était d'apprendre et d'implémenter étape par étape la méthode de rendu par lancé de rayons, ainsi que divers algorithmes raytracing-friendly.
 
