@@ -1,8 +1,10 @@
 # A first Raytracer
 
 <p align=center>
-  <img src="https://github.com/JinFrx/pf-first-raytracer/blob/main/3d_engine_ray_tracing.jpg" alt="showcase image" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  <img src="https://github.com/JinFrx/first-raytracer/blob/main/3d_engine_ray_tracing.jpg" alt="showcase image" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 </p>
+
+<p align=center><i>Render made with this Raytracer.</i></p>
 
 ## Description
 
